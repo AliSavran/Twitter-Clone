@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97925188239",
+    "project_id": "javatwitterclone-afd9e",
+    "storage_bucket": "javatwitterclone-afd9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97925188239:android:bf2b5adbaac890df28fefa",
+        "android_client_info": {
+          "package_name": "com.alisavran.javatwitterclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtHUje4ZfvxwH6CD6dFSym_XxSdCBHlWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
